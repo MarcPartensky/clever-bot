@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<dialog>
+<!--
+    <statistics conversations="556621" utterances="1583083">
+        <conversation size="2" count="310528"/>
+        <conversation size="3" count="136397"/>
+        <conversation size="4" count="57276"/>
+        <conversation size="5" count="26216"/>
+        <conversation size="6" count="12275"/>
+        <conversation size="7" count="5995"/>
+        <conversation size="8" count="3290"/>
+        <conversation size="9" count="1758"/>
+        <conversation size="10" count="1041"/>
+        <conversation size="11" count="632"/>
+        <conversation size="12" count="370"/>
+        <conversation size="13" count="239"/>
+        <conversation size="14" count="185"/>
+        <conversation size="15" count="124"/>
+        <conversation size="16" count="75"/>
+        <conversation size="17" count="64"/>
+        <conversation size="18" count="35"/>
+        <conversation size="19" count="45"/>
+        <conversation size="20" count="18"/>
+        <conversation size="21" count="16"/>
+        <conversation size="22" count="11"/>
+        <conversation size="23" count="8"/>
+        <conversation size="24" count="4"/>
+        <conversation size="25" count="2"/>
+        <conversation size="26" count="2"/>
+        <conversation size="27" count="5"/>
+        <conversation size="28" count="2"/>
+        <conversation size="29" count="1"/>
+        <conversation size="30" count="2"/>
+        <conversation size="31" count="2"/>
+        <conversation size="33" count="1"/>
+        <conversation size="34" count="2"/>
+    </statistics>
+-->
+    <s link_id="8r1kz" subreddit_id="2qhjz">
+        <utt uid="1688932" comment_id="c0a62uj" parent_id="8r1kz" score="3" create_utc="1244576002">Ironie : l'article disant qu'on est plus capable de se concentrer plus de 2 pages, en fait 6 !
+J'ai pas pu aller plus loin que la page 3, même si c'était intéressant !</utt>
+        <utt uid="786883" comment_id="c0a6lmb" parent_id="c0a62uj" score="1" create_utc="1244621120">Moi-même, j'ai dû me forcer pour arriver jusqu'à la fin. Et pourtant ça ne devient pas moins intéressant. Ca fout les jetons... :)</utt>
+    </s>
+    <s link_id="8sncs" subreddit_id="2qhjz">
+        <utt uid="390497" comment_id="c0aawpk" parent_id="8sncs" score="1" create_utc="1245076061">Service qui sera rendu au contribuable pour la modique some de 70 Millions par an.</utt>
+        <utt uid="32884" comment_id="c0aaxba" parent_id="c0aawpk" score="3" create_utc="1245077396">Eeeeh oui ! 70 millions pour une loi qui aura pour effet de .</utt>
+    </s>
+    <s link_id="8v13c" subreddit_id="2qhjz">
+        <utt uid="796919" comment_id="c0aj3ov" parent_id="8v13c" score="2" create_utc="1245830384">Est-ce qu'elle a vraiment commis des crimes qui méritent **soixante** ans de prison? J'en doute...</utt>
+        <utt uid="941274" comment_id="c0aj8mk" parent_id="c0aj3ov" score="2" create_utc="1245850382">Elle a été jugée par deux fois, d'aider et de participer à l'enlèvement. Elle l'a fait plusieurs fois en fonction de ses victimes qui se sont identifiés. Les membres de la bande, elle a travaillé avec elle et a également identifié avoué. Elle a été jugé deux fois.
+
+Même le gouvernement français ne conteste pas la preuve. La loi mexicaine oblige à servir 60 ans. Elle a commis des crimes au Mexique. Qu'en est-il de douter?</utt>
+    </s>
+    <s link_id="93739" subreddit_id="2qhjz">
+        <utt uid="177948" comment_id="c0b9n8k" parent_id="93739" score="1" create_utc="1248192554">C'est les mêmes problèmes politiques que les républicains des États-Unis souffrent de. Idées, dépassées et obsolètes.
+
+Sorte de ,drôle, la différence entre gauche et droite, PS et le Parti républicain d'Amérique.</utt>
+        <utt uid="167829" comment_id="c0b9njv" parent_id="c0b9n8k" score="2" create_utc="1248193056">Si ils ne sortent pas des idées pertinentes d'ici un an, ils sont morts. La seul chose que produit le PS depuis plusieurs années maintenant, c'est:
+
+1. Des feuilletons pathétiques de divisions internes.
+2. Un show people (ségolène royal).
+3. De l'antisarkozysme primaire.
+4. De l'obstruction parlementaire.</utt>
+    </s>
+    <s link_id="93739" subreddit_id="2qhjz">
+        <utt uid="1338881" comment_id="c0b9wka" parent_id="93739" score="1" create_utc="1248206107">soit sego, soit la mort: elle prend trop de place, ils ne pourront jamais s'en débarrasser donc soit donner le ps à sego soit le hara-kiri</utt>
+        <utt uid="974012" comment_id="c0b9x47" parent_id="c0b9wka" score="1" create_utc="1248206866">Donner le PS à une people sans idées? Quelle drôle d'idée! Non, il faut arrêter les grandes déclarations et commencer à contribuer par des idées au débat national. Evidemment, si les médias relayaient ce genre d'initiatives plutôt que les frasques de ségolène, ça aiderait...</utt>
+    </s>
+    <s link_id="9gw99" subreddit_id="2qhjz">
+        <utt uid="875375" comment_id="c0cq7vy" parent_id="9gw99" score="2" create_utc="1251975665">à quand la taxe Tobin?
+</utt>
+        <utt uid="1701211" comment_id="c0cqynp" parent_id="c0cq7vy" score="1" create_utc="1252013979">Le vrai problème ce sont les bulles spéculatives et la taxe Tobin n'y changera rien comme le montre le marché immobilier : Les transactions immobilières sont en effet très chères et cela n'empêche ni la spéculation, ni les bulles spéculatives.</utt>
+        <utt uid="1196647" comment_id="c0cqyze" parent_id="c0cqynp" score="2" create_utc="1252014395">C'est un autre problème, qui n'empêche pas de traiter celui des activités purement financières et virtuelles.
+
+Une entreprise n'est pas un produit jettable, se l'échanger plusieurs milliers de fois par seconde n'a aucun sens et ne bénéficie pas à l'économie réelle: pourquoi ne pas taxer ce genre de comportements, pour les rendres moins intéressants?</utt>
+        <utt uid="1613692" comment_id="c0cr17m" parent_id="c0cqyze" score="2" create_utc="1252017302">Je pense qu'il faut s'attaquer surtout aux comportements qui ont des conséquences nuisibles pour la collectivité. Et autant je vois les conséquences nuisibles d'un certain nombre de pratiques des milieux financiers autant celle-ci en particulier me parait sans grande importance. 
+
+Les vrais problèmes sont à mon avis :
+
+ * les paradis fiscaux
+ * l'endettement excessif des ménages et des états
+ * le pouvoir qui est trop concentré au sein des entreprises, ce qui permet aux PDG de détourner "légalement" (en bonus et salaire) l'argent de l'entreprise au détriment des actionnaires et des salariés.
+ * le manque de transparence qui s'accroit dans les marchés financiers (comme les "flash orders" dont parle l'article du monde).
+
+Ce qui m'embête c'est qu'on parle beaucoup de la finance mais qu'on oublie ce qui à vraiment causé la crise. Le risque c'est qu'à la fin de la crise on ne se soit occupé que des problèmes secondaires et que les vrais raisons de la crise ne soient pas traitées
+
+edit : formatage et orthographe</utt>
+        <utt uid="943446" comment_id="c0cr1hs" parent_id="c0cr17m" score="0" create_utc="1252017672">J'avoue que je suis assez convaincu par cette analyse. Cependant, je pense que la taxe Tobin, en diminuant les petits revenus liés à la "spéculation à la journée" peut pousser à investir à plus long terme, et donc à s'intéresser de plus près à la gestion des entreprises dans lesquelles on investit.
+
+Après bien entendu il faut voir l'applicabilité d'une telle taxe, et son montant :)</utt>
+    </s>
+    <s link_id="9icfy" subreddit_id="2qhjz">
+        <utt uid="1611704" comment_id="c0cw971" parent_id="9icfy" score="4" create_utc="1252403926">Ca y est, elle a officiellement pété un câble.</utt>
+        <utt uid="1672665" comment_id="c0cw9ol" parent_id="c0cw971" score="3" create_utc="1252405743">P'tain, c'était plus ou moins officiel pour un bon moment déjà.</utt>
+    </s>
+    <s link_id="9l8ux" subreddit_id="2qhjz">
+        <utt uid="220764" comment_id="c0d8el3" parent_id="c0d8e8t" score="1" create_utc="1253135985">Chanson preferee?</utt>
+        <utt uid="1065871" comment_id="c0d8eu0" parent_id="c0d8el3" score="1" create_utc="1253136241">Il y en a plein qui sont bien, et ce sont des chansons à texte, ce qui me semble parfait pour un cours. Ecoute l'album *reprise des négociations*, tu passeras un bon moment et tu trouveras probablement ton bonheur.</utt>
+    </s>
+    <s link_id="9l8ux" subreddit_id="2qhjz">
+        <utt uid="112967" comment_id="c0d8n5k" parent_id="9l8ux" score="3" create_utc="1253147118">Bonne musique populaire pour des collégiens. Noir Desir leur plaira. Il faut trouver la bonne chanson parce que comprendre le chanteur peut être difficile parfois. [Example](http://www.youtube.com/watch?v=0F8FP2RFhb8&amp;feature=related).
+
+Pas moderne au sens propre mais comme dit magli, Georges Brassens. Ou un bon texte de Jacques Brel ou Serge Gainsbourg.
+
+Sinon je suis tombé sur ça aujourd'hui, et je résiste pas à le [partager](http://www.dailymotion.com/video/x2o6q8_tetes-raides-ginette_music). Les Têtes Raides ont parfois des textes abscons mais souvent très chouette.</utt>
+        <utt uid="22571" comment_id="c0d8rzl" parent_id="c0d8n5k" score="1" create_utc="1253153686">Merci beaucoup! Noir Desir leur plaira beaucoup. Je vais a la recherche des paroles. J'apprecie tout ces suggestions.</utt>
+    </s>
+    <s link_id="9l8ux" subreddit_id="2qhjz">
+        <utt uid="1410206" comment_id="c0d984z" parent_id="9l8ux" score="3" create_utc="1253181914">Thomas Fersen a écrit quelques belles chansons. Les paroles de [La chauve souris](http://www.musikiwi.com/paroles/thomas-fersen-chauve,souris,23591.html) sont plutôt drôles mais regorgent de jeux de mots, pas forcement simples à comprendre.
+
+[M (Mathieu Chedid)](http://www.lyricsmania.com/lyrics/m_lyrics_9636/le_bapteme_lyrics_30859/matchistador_lyrics_334617.html) t'intéressera peut être.
+
+Sinon, [toujours une bonne source d'inspiration,](http://fr.wikipedia.org/wiki/Rock_fran%C3%A7ais#Ann.C3.A9es_2000)
+
+Bon courage.</utt>
+        <utt uid="895668" comment_id="c0d9dph" parent_id="c0d984z" score="0" create_utc="1253195164">La Chauve Souris est tres marrante. Merci pour la liste d'artistes. Ca va m'aider beaucoup.</utt>
+    </s>
+    <s link_id="9nb9r" subreddit_id="2qhjz">
+        <utt uid="1315829" comment_id="c0dhvyj" parent_id="9nb9r" score="3" create_utc="1253721680">Je ne pouvais pas tout lire, c'est effrayant la France.</utt>
+        <utt uid="1104283" comment_id="c0di1ka" parent_id="c0dhvyj" score="1" create_utc="1253728466">tl;dr: il y a du racisme en France et il en souffre.
+
+Mais s'il veut combattre ça il faudrait peut-être qu'il reconnaisse que c'est un problème mondial, et que les discriminations c'est pas que pour les reubeus.</utt>
+        <utt uid="728017" comment_id="c0di2mz" parent_id="c0di1ka" score="1" create_utc="1253729605">Quand j'étais élève au lycée aux EU, une Française est venue à notre classe française pour nous dire qu'il n'éxiste pas de racisme en France alors je suis visité visité pour voir cet utpoie. Et je dirais que le racisme en France contre les arabs est comme le racism ici contre les noirs.</utt>
+    </s>
+    <s link_id="9pa4p" subreddit_id="2qhjz">
+        <utt uid="955548" comment_id="c0dt2bc" parent_id="9pa4p" score="2" create_utc="1254280863">Si on commence a penser dans cette direction, on en arrive bien vite a se demander pourquoi le gouvernement Francais n'a fait aucun effort pour aider les Etats-Unis a appliquer cette loi durant plusieurs decades.
+</utt>
+        <utt uid="865318" comment_id="c0dt87b" parent_id="c0dt2bc" score="0" create_utc="1254289090">Visiblement, tout le monde n'est pas du même avis en France. Et puis une loi Française interdit apparament d'extrader un citoyen Français.
+
+Cela dit, je trouve que Maître Eolas développe des arguments convainquants.</utt>
+    </s>
+    <s link_id="9rtc7" subreddit_id="2qhjz">
+        <utt uid="1432450" comment_id="c0e59m5" parent_id="9rtc7" score="3" create_utc="1254962745">Quand tout le monde a son bac, le bac a moins de valeur comme differentiateur social.
+
+Est-ce vraiment une surprise?
+</utt>
+        <utt uid="1061781" comment_id="c0e5nv2" parent_id="c0e59m5" score="2" create_utc="1254985786">Surtout quand la manière de faire obtenir le bac à tout le monde est de baisser le niveau du bac...</utt>
+    </s>
+    <s link_id="9rtc7" subreddit_id="2qhjz">
+        <utt uid="941352" comment_id="c0e5qi6" parent_id="9rtc7" score="0" create_utc="1254993550">Comment survivre dans un pays en voie de désindustrialisation et d'externalisation totale de créations de richesses sans appartenir à la classe dominante?</utt>
+        <utt uid="1817606" comment_id="c0eadck" parent_id="c0e5qi6" score="1" create_utc="1255259398">Il y a plein de professions qui marchent pas trop mal, les artisans par exemple. Il faut s'adapter au marché :)</utt>
+    </s>
+    <s link_id="9tkyn" subreddit_id="2qhjz">
+        <utt uid="453774" comment_id="c0edguy" parent_id="9tkyn" score="2" create_utc="1255443007">Le Figaro trouvait que 8 sur 10 qui refusent est beaucoup, je trouve que 2 sur 10 qui paient, ca ferait qd même un paquet!!!!</utt>
+        <utt uid="1399439" comment_id="c0edif0" parent_id="c0edguy" score="1" create_utc="1255444941">C'est sûr, ça rapporterait sans doute plus que les 100% d'utilisateurs gratuits actuels. Ce serait quand même dommage d'en arriver là, puisque ça limiterait énormément le nombre de sources d'informations auquelles nous avons accès en ligne, et ça limiterait également l'intérêt de site co
